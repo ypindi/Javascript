@@ -7,3 +7,8 @@ function madLibs(myNoun, myAdjective, myVerb, myAdverb){
 }
 
 console.log(madLibs("Tiger", "ferocious", "Cooking", "delicious"))
+
+
+// PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Javascript> node .\2_madlibs.js
+// Wow this Tiger was a very ferocious popular delicious Cooking quickly.
+// PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Javascript> 
