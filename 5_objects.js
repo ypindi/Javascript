@@ -43,3 +43,7 @@ function objectUsage(val){
 var val = "Charles";
 console.log(objectUsage(val));
 
+
+// PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Javascript> node .\5_objects.js
+// Leclerc
+// PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Javascript> 

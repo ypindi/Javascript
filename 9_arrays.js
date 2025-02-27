@@ -37,3 +37,10 @@ function lookUpProfile(name, prop){
 
 console.log(lookUpProfile("yash", "likes"));
 console.log(lookUpProfile("Sherlock", "number"));
+
+// PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Javascript> 
+// PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Javascript> node .\9_arrays.js
+// Not found!
+// 0487345643
+// PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Javascript> 
+// PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Javascript> 

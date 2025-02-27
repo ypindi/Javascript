@@ -15,3 +15,8 @@ function objectFreeze(){
 
 let answer = objectFreeze();
 console.log(answer)
+
+
+// PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Javascript> node .\12_objectFreeze.js
+// 3.14
+// PS D:\Yashwanth\HTW_Berlin\Self_Learnings\Javascript> 
